@@ -12,7 +12,7 @@
   <img align="center" alt="jhonny-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="jhonny-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="jhonny-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="right" height="200" width="200" src="https://user-images.githubusercontent.com/50273682/137768791-85962b51-42b0-401e-bf83-b3b2ff454288.png">
+  <img align="right" height="150" width="150" src="https://user-images.githubusercontent.com/50273682/137771180-1bff9f20-029c-4ec0-b68d-66f76fb11300.gif">
 
  </div>
  
